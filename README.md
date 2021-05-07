@@ -1,6 +1,6 @@
 # simonleawright_aimeos_ecommerce
 
-A Laravel 5.6 project with VueJS 2.0 - solo artist gallery - site converted to e-commerce website using https://aimeos.org/docs/Laravel package.  Original design retained.
+A Laravel 5.6 project with VueJS 2.0 - solo artist gallery - site converted to e-commerce website using https://aimeos.org/docs/latest/laravel/ package.  Original design retained.
 
 Visit www.simonleawright.co.uk
 
