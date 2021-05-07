@@ -1,0 +1,22 @@
+{
+	"projectName": "slw",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "slw CSS",
+		"file": "slw.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "slw JS",
+		"file": "slw.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
